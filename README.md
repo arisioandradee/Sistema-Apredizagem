@@ -1,4 +1,4 @@
-# Sistema de Aprendizagem - Fundamentos de Banco de Dados
+# Sistema de Aprendizagem
 
 ## Descrição
 Este é o repositório do meu projeto para a disciplina de Fundamentos de Banco de Dados na Universidade Federal do Ceará, campus Quixadá. Implementei um Sistema de Aprendizagem que utiliza um banco de dados para armazenar informações sobre estudantes, professores, cursos, módulos e comunidades. O sistema tem como objetivo fornecer uma plataforma interativa para que estudantes e professores possam explorar e aplicar cursos um ambiente prático. 
