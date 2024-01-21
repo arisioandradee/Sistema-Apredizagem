@@ -17,8 +17,5 @@ O Sistema de Aprendizagem oferece uma variedade de recursos para ajudar estudant
 - Banco de Dados (PostgreSQL)
 
 ## Agradecimentos
-<<<<<<< HEAD
 Gostaria de expressar meus sinceros agradecimentos à Professora Lívia Almada e ao meu dedicado colega de dupla, [Marcelo](https://github.com/marcelobjr1). 
-=======
-Gostaria de expressar meus sinceros agradecimentos à Professora Lívia Almada e ao meu dedicado colega de dupla, Marcelo. 
->>>>>>> origin/main
+
