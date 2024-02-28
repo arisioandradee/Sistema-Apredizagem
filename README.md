@@ -1,7 +1,7 @@
 # Sistema de Aprendizagem
 
 ## Descrição
-Este é o repositório do meu projeto para a disciplina de Fundamentos de Banco de Dados na Universidade Federal do Ceará, campus Quixadá. Implementei um Sistema de Aprendizagem que utiliza um banco de dados para armazenar informações sobre estudantes, professores, cursos, módulos e comunidades. O sistema tem como objetivo fornecer uma plataforma interativa para que estudantes e professores possam explorar e aplicar cursos um ambiente prático. 
+Bem-vindo ao repositório do meu primeiro projeto pessoal: um Sistema de Aprendizagem completo. Este projeto foi desenvolvido com o propósito de oferecer uma plataforma interativa e eficiente para estudantes e professores explorarem e aplicarem seus cursos de forma prática.
 
 ## Recursos Principais
 O Sistema de Aprendizagem oferece uma variedade de recursos para ajudar estudantes, professores a interagir e aprender. Aqui estão os principais recursos do sistema:
@@ -15,7 +15,8 @@ O Sistema de Aprendizagem oferece uma variedade de recursos para ajudar estudant
 ## Tecnologias Utilizadas
 - Python
 - Banco de Dados (PostgreSQL)
+- Jupyter Notebook
 
 ## Agradecimentos
-Gostaria de expressar meus sinceros agradecimentos à Professora Lívia Almada e ao meu dedicado colega de dupla, [Marcelo](https://github.com/marcelobjr1). 
+Esse foi um projeto realizado em dupla com meu colega [Marcelo](https://github.com/marcelobjr1). 
 
